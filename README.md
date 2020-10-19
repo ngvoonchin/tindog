@@ -1,1 +1,1 @@
-This is an awesome fully Responsive website using HTML, CSS and Bootstrap4
+This is a fully Responsive website designed using HTML, CSS and Bootstrap4
