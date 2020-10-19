@@ -1,5 +1,1 @@
-# DEMO
-
-Some description
-
-# git
+This is an awesome fully Responsive website using HTML, CSS, JavaScript and Bootstrap4
